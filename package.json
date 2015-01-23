@@ -1,0 +1,25 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Solution for excersices from expressworks in nodeschool",
+  "main": "1_hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiragdoctor/expressworks.git"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "nodejs",
+    "express"
+  ],
+  "author": "Chirag Doctor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragdoctor/expressworks/issues"
+  },
+  "homepage": "https://github.com/chiragdoctor/expressworks"
+}
